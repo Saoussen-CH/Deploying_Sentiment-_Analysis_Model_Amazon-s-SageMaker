@@ -1,4 +1,4 @@
-# Deploying_Sentiment_Analysis_Model_Amazon_SageMaker
+# Deploying_Sentiment_Analysis_Model_AWS_SageMaker
 Deploying of a Sentiment  Analysis Model of movies reviews using the IMDB dataset on Amazon's SageMaker platform.
 
 ## Project Overview
